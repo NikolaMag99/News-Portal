@@ -1,0 +1,8 @@
+rs/raf/demo/repositories/subject/SubjectRepository.class
+rs/raf/demo/HelloApplication.class
+rs/raf/demo/repositories/subject/InMemorySubjectRepository.class
+rs/raf/demo/services/SubjectService.class
+rs/raf/demo/resources/SubjectResource.class
+rs/raf/demo/HelloApplication$1.class
+rs/raf/demo/repositories/subject/MySqlSubjectRepository.class
+rs/raf/demo/entities/Subject.class
